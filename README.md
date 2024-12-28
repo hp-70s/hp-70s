@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my life
 - 🌱 I’m currently learning
-- 💬 Ask me about about anything
+- 🔭 I’m currently working on my life
+- 💬 Ask me about about anything interesting
 - ⚡ Fun fact: The sky is still full of afterglow
 
 <!--

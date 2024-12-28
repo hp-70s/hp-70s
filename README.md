@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning Electronic Information Engineering
-- 💬 Ask me about about my major 
+- 🔭 I’m currently working on my life
+- 🌱 I’m currently learning
+- 💬 Ask me about about anything
 - ⚡ Fun fact: The sky is still full of afterglow
 
 <!--
